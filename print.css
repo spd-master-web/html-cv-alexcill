@@ -1,0 +1,45 @@
+
+* {background: beige !important;  !important;}
+
+p {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 10pt;
+  color: black;
+}
+
+h2 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 12pt;
+  color: rgb(106, 106, 83)
+}
+
+h3 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 11pt;
+  color: rgb(106, 106, 83)
+}
+
+h1 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 15pt;
+  text-align: center;
+  color: rgb(106, 106, 83)
+}
+
+.boxes {
+float: left;
+width: 50%;
+height: 200px;
+margin-top: 10px;
+margin-bottom: 30px;
+}
+
+
