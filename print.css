@@ -1,5 +1,5 @@
 
-* {background: beige !important;  !important;}
+* {background-color: bisque !important;  !important;}
 
 p {
   font-family: "Lato", sans-serif;
@@ -10,28 +10,28 @@ p {
 }
 
 h2 {
-  font-family: "Lato", sans-serif;
-  font-weight: 700;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
   font-style: normal;
   font-size: 12pt;
-  color: rgb(106, 106, 83)
+  color: black;
 }
 
 h3 {
-  font-family: "Lato", sans-serif;
-  font-weight: 700;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
   font-style: normal;
   font-size: 11pt;
-  color: rgb(106, 106, 83)
+  color: black;
 }
 
 h1 {
-  font-family: "Lato", sans-serif;
-  font-weight: 700;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
   font-style: normal;
-  font-size: 15pt;
+  font-size: 18pt;
   text-align: center;
-  color: rgb(106, 106, 83)
+  color: black;
 }
 
 .boxes {
@@ -42,4 +42,7 @@ margin-top: 10px;
 margin-bottom: 30px;
 }
 
+ul {
+  list-style: none;
+}
 
